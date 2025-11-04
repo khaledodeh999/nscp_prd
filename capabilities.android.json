@@ -8,5 +8,5 @@
     "appCenterOTA": false,
     "maps": true,
     "mapsIos": false,
-    "nativeOTA": false
+    "nativeOTA": true
 }

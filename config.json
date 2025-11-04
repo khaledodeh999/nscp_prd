@@ -144,11 +144,11 @@
             "enabled": false
         },
         "nativeOTA": {
-            "enabled": false
+            "enabled": true
         }
     },
-    "appVersion": "1.0.2",
-    "buildNumber": 160,
+    "appVersion": "1.0.4",
+    "buildNumber": 173,
     "runtimeUrl": "https://tajawob.om/",
     "hermesEnabled": true,
     "cookieEncryptionEnabled": false
